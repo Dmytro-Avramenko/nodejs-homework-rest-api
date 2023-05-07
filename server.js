@@ -10,11 +10,9 @@ mongoose.connect(DB_HOST)
   .then(() => {
     app.listen(3000, () => {
       console.log("Database connection successful")
-    })   // app.listen(PORT)
+    })
   })
   .catch(error => {
     console.log(error.message);
     process.exit(1);
   })
-  
-// pXew3zNxP6XEnPtX
