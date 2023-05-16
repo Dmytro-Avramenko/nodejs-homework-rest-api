@@ -31,3 +31,5 @@
 - `npm lint:fix` &mdash; та ж перевірка лінтера, але з автоматичними виправленнями простих помилок
 
 pXew3zNxP6XEnPtX
+
+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
